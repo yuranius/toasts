@@ -1,0 +1,16 @@
+.button{
+    padding: 10px 15px;
+    background-color:darkseagreen;
+    margin: 0 2px;
+    border-radius: 10px;
+    color: white;
+    transition: .3s ease;
+    opacity: 0.8;
+}
+
+.button:hover{
+    opacity: 1;
+    box-shadow: 0 0 5px gray;
+    transition: .3s ease;
+}
+
